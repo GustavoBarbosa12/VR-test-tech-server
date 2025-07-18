@@ -1,0 +1,3 @@
+node_modules
+.rabitmq_data
+.env
